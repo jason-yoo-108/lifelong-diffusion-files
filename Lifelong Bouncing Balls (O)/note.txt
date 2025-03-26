@@ -1,0 +1,3 @@
+Each folder contains model-generated samples from a specific training algorithm.
+
+Each MP4 file consists of 5 video clips. The topmost clip, highlighted with a red border, represents the ground truth video. The remaining 4 clips show model-generated samples. In these clips, the first few frames (also marked with a red border) are provided as conditioning frames, while the remaining frames are autoregressively generated using different random seeds.
