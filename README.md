@@ -25,8 +25,8 @@ Offline Learning vs Lifelong Learning (Parking Lot Scenario)
     <img src="./Lifelong%20Drive/parkinglot/Lifelong%20Learning.gif" width="192" />
   </div> -->
   <div style="display: flex; gap: 30px;">
-    <img src="https://github.com/jason-yoo-108/lifelong-diffusion-files/raw/Lifelong%20Drive/parkinglot/Offline%20Learning.gif" width="192">
-    <img src="https://github.com/jason-yoo-108/lifelong-diffusion-files/raw/Lifelong%20Drive/parkinglot/Lifelong%20Learning.gif" width="192">
+    <img src="./LifelongDrive/parkinglot/OfflineLearning.gif" width="192" />
+    <img src="./LifelongDrive/parkinglot/LifelongLearning.gif" width="192" />
   </div>
 
 ## Lifelong 3D Maze
