@@ -19,10 +19,14 @@ Offline Learning vs Lifelong Learning (Crafting Table Scenario)
 
 ## Lifelong Drive
 
-Offline Learning vs Lifelong Learning (Morning Scenario)  
-  <div style="display: flex; gap: 30px;">
+Offline Learning vs Lifelong Learning (Parking Lot Scenario)  
+  <!-- <div style="display: flex; gap: 30px;">
     <img src="./Lifelong%20Drive/parkinglot/Offline%20Learning.gif" width="192" />
     <img src="./Lifelong%20Drive/parkinglot/Lifelong%20Learning.gif" width="192" />
+  </div> -->
+  <div style="display: flex; gap: 30px;">
+    <img src="https://github.com/jason-yoo-108/lifelong-diffusion-files/raw/Lifelong%20Drive/parkinglot/Offline%20Learning.gif" width="192">
+    <img src="https://github.com/jason-yoo-108/lifelong-diffusion-files/raw/Lifelong%20Drive/parkinglot/Lifelong%20Learning.gif" width="192">
   </div>
 
 ## Lifelong 3D Maze
@@ -37,14 +41,14 @@ Offline Learning vs Lifelong Learning (Crystal Scenario)
 
 Offline Learning vs Lifelong Learning (Stream Middle Scenario)  
   <div style="display: flex; gap: 30px;">
-    <img src="./Lifelong%20Bouncing%20Balls%20(C)/stream_middle/Offline%20Learning.gif" width="128" />
-    <img src="./Lifelong%20Bouncing%20Balls%20(C)/stream_middle/Lifelong%20Learning.gif" width="128" />
+    <img src="./Lifelong%20Bouncing%20Balls%20C/stream_middle/Offline%20Learning.gif" width="128" />
+    <img src="./Lifelong%20Bouncing%20Balls%20C/stream_middle/Lifelong%20Learning.gif" width="128" />
   </div>
 
 ## Lifelong Bouncing Balls (O)
 
 Offline Learning vs Lifelong Learning (Stream Middle Scenario)  
   <div style="display: flex; gap: 30px;">
-    <img src="./Lifelong%20Bouncing%20Balls%20(O)/stream_middle/Offline%20Learning.gif" width="128" />
-    <img src="./Lifelong%20Bouncing%20Balls%20(O)/stream_middle/Lifelong%20Learning.gif" width="128" />
+    <img src="./Lifelong%20Bouncing%20Balls%20O/stream_middle/Offline%20Learning.gif" width="128" />
+    <img src="./Lifelong%20Bouncing%20Balls%20O/stream_middle/Lifelong%20Learning.gif" width="128" />
   </div>
